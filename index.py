@@ -1,3 +1,3 @@
 name = "Pascal"
-print ("Hello world, " + name)
+print ("Hello test, " + name)
 print("I love abc Pascal")
