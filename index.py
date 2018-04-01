@@ -1,3 +1,2 @@
-name = Pascal
-print ("Hello world, " + name)
+print ("Hello world")
 print("I love abc Pascal")
