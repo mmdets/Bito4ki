@@ -1,2 +1,2 @@
-print ("Hello hello")
+print ("Hello teacher")
 print("I love abc Pascal")
